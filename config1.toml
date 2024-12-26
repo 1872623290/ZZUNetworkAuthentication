@@ -1,0 +1,5 @@
+[Account]
+account="xxxxxx"
+password="xxxxxxxxx"
+[Settings]
+interfaces=["interface1","interface2"]
